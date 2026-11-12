@@ -164,10 +164,10 @@ Com um orçamento de R$ 1.000, o algoritmo procura a combinação de necessidade
 
 | Nome | RM |
 |---|---|
-| [Carlos Eduardo Sanches Mariano] | [rm-561756] |
-| [Gabriel Hombris] | [rm-566553] |
-| [Icaro Machado] | [rm-572802] |
-| [Nicolas Guinante Cavalcanti] | [rm-570222] |
+| Carlos Eduardo Sanches Mariano | rm-561756 |
+| Gabriel Hombris | rm-566553 |
+| Icaro Machado | rm-572802 |
+| Nicolas Guinante Cavalcanti | rm-570222 |
 
 ---
 
