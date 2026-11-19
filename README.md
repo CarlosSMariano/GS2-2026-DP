@@ -1,5 +1,9 @@
 # 🏘️ Comunex — Priorizador de Necessidades Comunitárias
 
+## Acesso ao Projeto
+
+**URL base:** `https://gs2-2026-dp.onrender.com`
+
 ## 📌 Sobre o projeto
 
 O **Comunex** é uma aplicação desenvolvida em Python com Streamlit, cujo objetivo é auxiliar na priorização de necessidades comunitárias.
