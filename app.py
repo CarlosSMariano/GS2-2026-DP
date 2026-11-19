@@ -8,7 +8,7 @@ def main():
     # ========================================
 
     st.set_page_config(
-        page_title="ConectaBairro | Priorizador",
+        page_title="Comunex | Priorizador",
         page_icon="🏘️",
         layout="wide"
     )
@@ -104,7 +104,7 @@ def main():
     # CABEÇALHO
     # ========================================
 
-    st.title("🏘️ ConectaBairro")
+    st.title("🏘️ Comunex")
 
     st.subheader("Priorizador de necessidades comunitárias")
 
@@ -335,7 +335,7 @@ def main():
     st.divider()
 
     st.caption(
-        "ConectaBairro | Priorização de necessidades comunitárias"
+        "Comunex | Priorização de necessidades comunitárias"
     )
 
 
