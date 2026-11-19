@@ -1,8 +1,8 @@
-# 🏘️ ConectaBairro — Priorizador de Necessidades Comunitárias
+# 🏘️ Comunex — Priorizador de Necessidades Comunitárias
 
 ## 📌 Sobre o projeto
 
-O **ConectaBairro** é uma aplicação desenvolvida em Python com Streamlit, cujo objetivo é auxiliar na priorização de necessidades comunitárias.
+O **Comunex** é uma aplicação desenvolvida em Python com Streamlit, cujo objetivo é auxiliar na priorização de necessidades comunitárias.
 
 A aplicação permite cadastrar diferentes necessidades de um bairro, informando o custo estimado e o benefício que cada uma pode proporcionar à comunidade.
 
@@ -59,7 +59,7 @@ Considerando `n` necessidades e um orçamento inteiro `W`:
 ## 📂 Estrutura do projeto
 
 ```text
-ConectaBairro/
+Comunex/
 │
 ├── app.py
 │
